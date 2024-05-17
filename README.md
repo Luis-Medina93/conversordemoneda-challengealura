@@ -25,3 +25,4 @@ Para usar el conversor de monedas, simplemente:
 3. Presiona el botón de convertir para ver el resultado.
 
 Versión del proyecto: 1.0.0
+Desarrollado por: Luis Medina
